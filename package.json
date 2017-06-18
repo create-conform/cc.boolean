@@ -1,12 +1,9 @@
 {
   "name": "cc.boolean",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "title": "Boolean Processing And Validation Module",
   "description": "Library for processing and validating booleans.",
-  "bugs": null,
   "license": "Apache-2.0",
-  "author": null,
-  "contributors": null,
   "main": "boolean.js",
   "pkxDependencies": [
     {
